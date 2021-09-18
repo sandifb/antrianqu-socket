@@ -1,0 +1,10 @@
+{
+  "name": "antrian-qu",
+  "version": "0.0.1",
+  "description": "antrian kece baday",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.1.2",
+    "socket.io": "^4.1.3"
+  }
+}
